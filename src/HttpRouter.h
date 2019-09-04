@@ -30,6 +30,7 @@
 #include <string_view>
 #include <sstream>
 #include <string>
+#include <algorithm>
 
 #include "f2/function2.hpp"
 
